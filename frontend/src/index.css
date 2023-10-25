@@ -1,0 +1,40 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Baloo Bhai 2', sans-serif;
+}
+
+.blogCollection{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.blogHeading{
+  font-weight: bolder;
+  text-align: center;
+  font-size: 8rem;
+}
+
+.blogContent{
+  font-size: 1.5em;
+}
+
+.blogInfo{
+  color: grey;
+}
+
+.blogFavorite{
+  font-size: 3em;
+  background-color: white;
+  border: 0px;
+}
+
+
+.wrapper{
+  margin: 10em;
+  background-color: white;
+  padding: 3em;
+  border-radius: 1em;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
